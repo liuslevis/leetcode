@@ -8,7 +8,8 @@
 using namespace std;
 /*
 TODO:  
-8 times AC. Attention: 1. binarySort. 2. given array is not rotated.
+8 times, 2h AC. Attention: 1. binarySort. 2. given array is not rotated.
+
 */
 class Solution {
 private:
