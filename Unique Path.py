@@ -1,4 +1,4 @@
-# 7 RTE  1 WA  1 AC
+# Recursive method, 7 RTE  1 WA  1 AC
 # notice: need to write python more preciesly
 class Solution:
     # @param {integer} m
